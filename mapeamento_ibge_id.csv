@@ -1,0 +1,372 @@
+estado,cidade_github,ibge_id,nome_oficial,cidade_clean
+SP,adolfo,3500204,Adolfo,adolfo
+SP,aguai,3500303,Aguaí,aguai
+SP,aguas_da_prata,3500402,Águas da Prata,aguas_da_prata
+SP,aguas_de_sao_pedro,3500600,Águas de São Pedro,aguas_de_sao_pedro
+SP,alto_alegre,3501103,Alto Alegre,alto_alegre
+SP,alvares_florence,3501202,Álvares Florence,alvares_florence
+SP,andradina,3502101,Andradina,andradina
+SP,aparecida,3502507,Aparecida,aparecida
+SP,aracariguama,3502754,Araçariguama,aracariguama
+SP,aracatuba,3502804,Araçatuba,aracatuba
+SP,arapei,3503158,Arapeí,arapei
+SP,avanhandava,3504404,Avanhandava,avanhandava
+SP,avare,3504503,Avaré,avare
+SP,barao_de_antonina,3505005,Barão de Antonina,barao_de_antonina
+SP,barbosa,3505104,Barbosa,barbosa
+SP,barueri,3505708,Barueri,barueri
+SP,birigui,3506508,Birigui,birigui
+SP,botucatu,3507506,Botucatu,botucatu
+SP,braganca_paulista,3507605,Bragança Paulista,braganca_paulista
+SP,brejo_alegre,3507753,Brejo Alegre,brejo_alegre
+SP,cacapava,3508504,Caçapava,cacapava
+SP,campinas,3509502,Campinas,campinas
+SP,campo_limpo_paulista,3509601,Campo Limpo Paulista,campo_limpo_paulista
+SP,catanduva,3511102,Catanduva,catanduva
+SP,charqueada,3511706,Charqueada,charqueada
+SP,coronel_macedo,3512605,Coronel Macedo,coronel_macedo
+SP,cunha,3513603,Cunha,cunha
+SP,dirce_reis,3513850,Dirce Reis,dirce_reis
+SP,dracena,3514403,Dracena,dracena
+SP,eldorado,3514809,Eldorado,eldorado
+SP,floreal,3515905,Floreal,floreal
+SP,general_salgado,3516903,General Salgado,general_salgado
+SP,glicerio,3517109,Glicério,glicerio
+SP,guaracai,3517802,Guaraçaí,guaracai
+SP,guarulhos,3518800,Guarulhos,guarulhos
+SP,ibitinga,3519600,Ibitinga,ibitinga
+SP,iepe,3519907,Iepê,iepe
+SP,igaracu_do_tiete,3520004,Igaraçu do Tietê,igaracu_do_tiete
+SP,iracemapolis,3521408,Iracemápolis,iracemapolis
+SP,irapuru,3521606,Irapuru,irapuru
+SP,itapeva,3522406,Itapeva,itapeva
+SP,itapevi,3522505,Itapevi,itapevi
+SP,itapirapua_paulista,3522653,Itapirapuã Paulista,itapirapua_paulista
+SP,itapolis,3522703,Itápolis,itapolis
+SP,itaporanga,3522802,Itaporanga,itaporanga
+SP,itapui,3522901,Itapuí,itapui
+SP,itariri,3523305,Itariri,itariri
+SP,itobi,3523800,Itobi,itobi
+SP,itu,3523909,Itu,itu
+SP,jaboticabal,3524303,Jaboticabal,jaboticabal
+SP,jandira,3525003,Jandira,jandira
+SP,joanopolis,3525508,Joanópolis,joanopolis
+SP,joao_ramalho,3525607,João Ramalho,joao_ramalho
+SP,jundiai,3525904,Jundiaí,jundiai
+SP,junqueiropolis,3526001,Junqueirópolis,junqueiropolis
+SP,lagoinha,3526308,Lagoinha,lagoinha
+SP,lavinia,3526506,Lavínia,lavinia
+SP,luiziania,3527702,Luiziânia,luiziania
+SP,macatuba,3528007,Macatuba,macatuba
+SP,macaubal,3528106,Macaubal,macaubal
+SP,marilia,3529005,Marília,marilia
+SP,mira_estrela,3530003,Mira Estrela,mira_estrela
+SP,mirante_do_paranapanema,3530201,Mirante do Paranapanema,mirante_do_paranapanema
+SP,mogi_guacu,3530706,Mogi Guaçu,mogi_guacu
+SP,monte_mor,3531803,Monte Mor,monte_mor
+SP,monteiro_lobato,3531704,Monteiro Lobato,monteiro_lobato
+SP,nhandeara,3532603,Nhandeara,nhandeara
+SP,nova_castilho,3532868,Nova Castilho,nova_castilho
+SP,nova_luzitania,3533304,Nova Luzitânia,nova_luzitania
+SP,osasco,3534401,Osasco,osasco
+SP,ourinhos,3534708,Ourinhos,ourinhos
+SP,palmital,3535309,Palmital,palmital
+SP,parisi,3536257,Parisi,parisi
+SP,patrocinio_paulista,3536307,Patrocínio Paulista,patrocinio_paulista
+SP,paulinia,3536505,Paulínia,paulinia
+SP,penapolis,3537305,Penápolis,penapolis
+SP,piedade,3537800,Piedade,piedade
+SP,pindorama,3538105,Pindorama,pindorama
+SP,planalto,3539608,Planalto,planalto
+SP,poloni,3539905,Poloni,poloni
+SP,pontes_gestal,3540309,Pontes Gestal,pontes_gestal
+SP,porangaba,3540507,Porangaba,porangaba
+SP,potirendaba,3540804,Potirendaba,potirendaba
+SP,pratania,3541059,Pratânia,pratania
+SP,presidente_epitacio,3541307,Presidente Epitácio,presidente_epitacio
+SP,rio_claro,3543907,Rio Claro,rio_claro
+SP,salto,3545209,Salto,salto
+SP,santa_ernestina,3546504,Santa Ernestina,santa_ernestina
+SP,santa_maria_da_serra,3547007,Santa Maria da Serra,santa_maria_da_serra
+SP,santo_andre,3547809,Santo André,santo_andre
+SP,santos,3548500,Santos,santos
+SP,sao_bernardo_do_campo,3548708,São Bernardo do Campo,sao_bernardo_do_campo
+SP,sao_jose_dos_campos,3549904,São José dos Campos,sao_jose_dos_campos
+SP,sao_manuel,3550100,São Manuel,sao_manuel
+SP,sao_pedro,3550407,São Pedro,sao_pedro
+SP,sao_roque,3550605,São Roque,sao_roque
+SP,sarutaia,3551207,Sarutaiá,sarutaia
+SP,sebastianopolis_do_sul,3551306,Sebastianópolis do Sul,sebastianopolis_do_sul
+SP,sertaozinho,3551702,Sertãozinho,sertaozinho
+SP,sumare,3552403,Sumaré,sumare
+SP,tapirai,3553500,Tapiraí,tapirai
+SP,taquaral,3553658,Taquaral,taquaral
+SP,taubate,3554102,Taubaté,taubate
+SP,terra_roxa,3554409,Terra Roxa,terra_roxa
+SP,tremembe,3554805,Tremembé,tremembe
+SP,turiuba,3555208,Turiúba,turiuba
+SP,uniao_paulista,3555703,União Paulista,uniao_paulista
+SP,valinhos,3556206,Valinhos,valinhos
+SP,valparaiso,3556305,Valparaíso,valparaiso
+SP,vera_cruz,3556602,Vera Cruz,vera_cruz
+SP,vinhedo,3556701,Vinhedo,vinhedo
+SP,votorantim,3557006,Votorantim,votorantim
+SP,votuporanga,3557105,Votuporanga,votuporanga
+BA,abare,2900207,Abaré,abare
+BA,acajutiba,2900306,Acajutiba,acajutiba
+BA,adustina,2900355,Adustina,adustina
+BA,alagoinhas,2900702,Alagoinhas,alagoinhas
+BA,alcobaca,2900801,Alcobaça,alcobaca
+BA,almadina,2900900,Almadina,almadina
+BA,anage,2901205,Anagé,anage
+BA,andorinha,2901353,Andorinha,andorinha
+BA,angical,2901403,Angical,angical
+BA,antas,2901601,Antas,antas
+BA,apuarema,2901957,Apuarema,apuarema
+BA,aracas,2902054,Araçás,aracas
+BA,aramari,2902203,Aramari,aramari
+BA,arataca,2902252,Arataca,arataca
+BA,banzae,2902658,Banzaê,banzae
+BA,barreiras,2903201,Barreiras,barreiras
+BA,brotas_de_macaubas,2904506,Brotas de Macaúbas,brotas_de_macaubas
+BA,caetite,2905206,Caetité,caetite
+BA,campo_alegre_de_lourdes,2905909,Campo Alegre de Lourdes,campo_alegre_de_lourdes
+BA,campo_formoso,2906006,Campo Formoso,campo_formoso
+BA,canudos,2906824,Canudos,canudos
+BA,cicero_dantas,2907806,Cícero Dantas,cicero_dantas
+BA,cipo,2907905,Cipó,cipo
+BA,cotegipe,2909406,Cotegipe,cotegipe
+BA,cristopolis,2909703,Cristópolis,cristopolis
+BA,cruz_das_almas,2909802,Cruz das Almas,cruz_das_almas
+BA,esplanada,2910602,Esplanada,esplanada
+BA,feira_de_santana,2910800,Feira de Santana,feira_de_santana
+BA,formosa_do_rio_preto,2911105,Formosa do Rio Preto,formosa_do_rio_preto
+BA,inhambupe,2913705,Inhambupe,inhambupe
+BA,ipiau,2913903,Ipiaú,ipiau
+BA,irara,2914505,Irará,irara
+BA,itaberaba,2914703,Itaberaba,itaberaba
+BA,itamaraju,2915601,Itamaraju,itamaraju
+BA,itapetinga,2916401,Itapetinga,itapetinga
+BA,itapicuru,2916500,Itapicuru,itapicuru
+BA,itatim,2916856,Itatim,itatim
+BA,ituacu,2917201,Ituaçu,ituacu
+BA,jaborandi,2917359,Jaborandi,jaborandi
+BA,jaguaquara,2917607,Jaguaquara,jaguaquara
+BA,jeremoabo,2918100,Jeremoabo,jeremoabo
+BA,juazeiro,2918407,Juazeiro,juazeiro
+BA,laje,2918803,Laje,laje
+BA,lajedao,2918902,Lajedão,lajedao
+BA,lauro_de_freitas,2919207,Lauro de Freitas,lauro_de_freitas
+BA,luis_eduardo_magalhaes,2919553,Luís Eduardo Magalhães,luis_eduardo_magalhaes
+BA,macajuba,2919603,Macajuba,macajuba
+BA,maragogipe,2920601,Maragogipe,maragogipe
+BA,mascote,2920908,Mascote,mascote
+BA,monte_santo,2921500,Monte Santo,monte_santo
+BA,morro_do_chapeu,2921708,Morro do Chapéu,morro_do_chapeu
+BA,mucuri,2922003,Mucuri,mucuri
+BA,prado,2925501,Prado,prado
+BA,riachao_das_neves,2926202,Riachão das Neves,riachao_das_neves
+BA,salvador,2927408,Salvador,salvador
+BA,santa_cruz_cabralia,2927705,Santa Cruz Cabrália,santa_cruz_cabralia
+BA,santa_rita_de_cassia,2928406,Santa Rita de Cássia,santa_rita_de_cassia
+BA,santo_estevao,2928802,Santo Estêvão,santo_estevao
+BA,satiro_dias,2929701,Sátiro Dias,satiro_dias
+BA,senhor_do_bonfim,2930105,Senhor do Bonfim,senhor_do_bonfim
+BA,sento_se,2930204,Sento Sé,sento_se
+BA,tapiramuta,2931301,Tapiramutá,tapiramuta
+BA,teolandia,2931608,Teolândia,teolandia
+BA,tucano,2931905,Tucano,tucano
+RJ,angra_dos_reis,3300100,Angra dos Reis,angra_dos_reis
+RJ,areal,3300225,Areal,areal
+RJ,armacao_dos_buzios,3300233,Armação dos Búzios,armacao_dos_buzios
+RJ,arraial_do_cabo,3300258,Arraial do Cabo,arraial_do_cabo
+RJ,barra_mansa,3300407,Barra Mansa,barra_mansa
+RJ,belford_roxo,3300456,Belford Roxo,belford_roxo
+RJ,cabo_frio,3300704,Cabo Frio,cabo_frio
+RJ,campos_dos_goytacazes,3301009,Campos dos Goytacazes,campos_dos_goytacazes
+RJ,casimiro_de_abreu,3301306,Casimiro de Abreu,casimiro_de_abreu
+RJ,comendador_levy_gasparian,3300951,Comendador Levy Gasparian,comendador_levy_gasparian
+RJ,cordeiro,3301504,Cordeiro,cordeiro
+RJ,duque_de_caxias,3301702,Duque de Caxias,duque_de_caxias
+RJ,iguaba_grande,3301876,Iguaba Grande,iguaba_grande
+RJ,itaguai,3302007,Itaguaí,itaguai
+RJ,macae,3302403,Macaé,macae
+RJ,marica,3302700,Maricá,marica
+RJ,mesquita,3302858,Mesquita,mesquita
+RJ,miguel_pereira,3302908,Miguel Pereira,miguel_pereira
+RJ,niteroi,3303302,Niterói,niteroi
+RJ,nova_friburgo,3303401,Nova Friburgo,nova_friburgo
+RJ,nova_iguacu,3303500,Nova Iguaçu,nova_iguacu
+RJ,quatis,3304128,Quatis,quatis
+RJ,queimados,3304144,Queimados,queimados
+RJ,quissama,3304151,Quissamã,quissama
+RJ,rio_de_janeiro,3304557,Rio de Janeiro,rio_de_janeiro
+RJ,sao_joao_da_barra,3305000,São João da Barra,sao_joao_da_barra
+RJ,sao_joao_de_meriti,3305109,São João de Meriti,sao_joao_de_meriti
+RJ,sao_jose_do_vale_do_rio_preto,3305158,São José do Vale do Rio Preto,sao_jose_do_vale_do_rio_preto
+RJ,sao_pedro_da_aldeia,3305208,São Pedro da Aldeia,sao_pedro_da_aldeia
+RJ,sapucaia,3305406,Sapucaia,sapucaia
+RJ,saquarema,3305505,Saquarema,saquarema
+RJ,sumidouro,3305703,Sumidouro,sumidouro
+RJ,varre_sai,3306156,Varre-Sai,varre_sai
+SE,aquidaba,2800209,Aquidabã,aquidaba
+SE,aracaju,2800308,Aracaju,aracaju
+SE,areia_branca,2800506,Areia Branca,areia_branca
+SE,barra_dos_coqueiros,2800605,Barra dos Coqueiros,barra_dos_coqueiros
+SE,campo_do_brito,2801009,Campo do Brito,campo_do_brito
+SE,canhoba,2801108,Canhoba,canhoba
+SE,caninde_de_sao_francisco,2801207,Canindé de São Francisco,caninde_de_sao_francisco
+SE,capela,2801306,Capela,capela
+SE,divina_pastora,2802007,Divina Pastora,divina_pastora
+SE,estancia,2802106,Estância,estancia
+SE,frei_paulo,2802304,Frei Paulo,frei_paulo
+SE,ilha_das_flores,2802700,Ilha das Flores,ilha_das_flores
+SE,itabaiana,2802908,Itabaiana,itabaiana
+SE,itabaianinha,2803005,Itabaianinha,itabaianinha
+SE,japaratuba,2803302,Japaratuba,japaratuba
+SE,moita_bonita,2804102,Moita Bonita,moita_bonita
+SE,muribeca,2804300,Muribeca,muribeca
+SE,nossa_senhora_das_dores,2804607,Nossa Senhora das Dores,nossa_senhora_das_dores
+SE,nossa_senhora_de_lourdes,2804706,Nossa Senhora de Lourdes,nossa_senhora_de_lourdes
+SE,nossa_senhora_do_socorro,2804805,Nossa Senhora do Socorro,nossa_senhora_do_socorro
+SE,pedra_mole,2805000,Pedra Mole,pedra_mole
+SE,pirambu,2805307,Pirambu,pirambu
+SE,poco_verde,2805505,Poço Verde,poco_verde
+SE,riachao_do_dantas,2805802,Riachão do Dantas,riachao_do_dantas
+SE,rosario_do_catete,2806107,Rosário do Catete,rosario_do_catete
+SE,sao_domingos,2806800,São Domingos,sao_domingos
+SE,simao_dias,2807105,Simão Dias,simao_dias
+SE,siriri,2807204,Siriri,siriri
+SE,telha,2807303,Telha,telha
+MA,afonso_cunha,2100105,Afonso Cunha,afonso_cunha
+MA,aldeias_altas,2100303,Aldeias Altas,aldeias_altas
+MA,anajatuba,2100709,Anajatuba,anajatuba
+MA,axixa,2101103,Axixá,axixa
+MA,bacabal,2101202,Bacabal,bacabal
+MA,bacuri,2101301,Bacuri,bacuri
+MA,boa_vista_do_gurupi,2101970,Boa Vista do Gurupi,boa_vista_do_gurupi
+MA,bom_jardim,2102002,Bom Jardim,bom_jardim
+MA,bom_lugar,2102077,Bom Lugar,bom_lugar
+MA,buriticupu,2102325,Buriticupu,buriticupu
+MA,centro_do_guilherme,2103158,Centro do Guilherme,centro_do_guilherme
+MA,codo,2103307,Codó,codo
+MA,coroata,2103604,Coroatá,coroata
+MA,duque_bacelar,2103901,Duque Bacelar,duque_bacelar
+MA,itapecuru_mirim,2105401,Itapecuru Mirim,itapecuru_mirim
+MA,maracacume,2106326,Maracaçumé,maracacume
+MA,maranhaozinho,2106375,Maranhãozinho,maranhaozinho
+MA,nina_rodrigues,2107209,Nina Rodrigues,nina_rodrigues
+MA,nova_iorque,2107308,Nova Iorque,nova_iorque
+MA,peritoro,2108454,Peritoró,peritoro
+MA,santo_antonio_dos_lopes,2110302,Santo Antônio dos Lopes,santo_antonio_dos_lopes
+MA,sao_jose_dos_basilios,2111250,São José dos Basílios,sao_jose_dos_basilios
+MA,sao_luis,2111300,São Luís,sao_luis
+MA,sao_vicente_ferrer,2111706,São Vicente Ferrer,sao_vicente_ferrer
+MA,turilandia,2112456,Turilândia,turilandia
+MA,viana,2112803,Viana,viana
+MA,ze_doca,2114007,Zé Doca,ze_doca
+PR,antonio_olinto,4101309,Antônio Olinto,antonio_olinto
+PR,apucarana,4101408,Apucarana,apucarana
+PR,arapongas,4101507,Arapongas,arapongas
+PR,cafelandia,4103453,Cafelândia,cafelandia
+PR,cafezal_do_sul,4103479,Cafezal do Sul,cafezal_do_sul
+PR,campo_largo,4104204,Campo Largo,campo_largo
+PR,campo_mourao,4104303,Campo Mourão,campo_mourao
+PR,carambei,4104659,Carambeí,carambei
+PR,castro,4104907,Castro,castro
+PR,corbelia,4106308,Corbélia,corbelia
+PR,curitiba,4106902,Curitiba,curitiba
+PR,guaraniacu,4109302,Guaraniaçu,guaraniacu
+PR,ipiranga,4110508,Ipiranga,ipiranga
+PR,jaboti,4111704,Jaboti,jaboti
+PR,juranda,4112959,Juranda,juranda
+PR,londrina,4113700,Londrina,londrina
+PR,mambore,4114005,Mamborê,mambore
+PR,marilandia_do_sul,4114906,Marilândia do Sul,marilandia_do_sul
+PR,maringa,4115200,Maringá,maringa
+PR,ouro_verde_do_oeste,4117453,Ouro Verde do Oeste,ouro_verde_do_oeste
+PR,pinhais,4119152,Pinhais,pinhais
+PR,primeiro_de_maio,4120507,Primeiro de Maio,primeiro_de_maio
+PR,santo_antonio_do_paraiso,4124301,Santo Antônio do Paraíso,santo_antonio_do_paraiso
+PR,sao_joao_do_triunfo,4125100,São João do Triunfo,sao_joao_do_triunfo
+PR,sao_mateus_do_sul,4125605,São Mateus do Sul,sao_mateus_do_sul
+PR,tamboara,4126702,Tamboara,tamboara
+TO,aguiarnopolis,1700301,Aguiarnópolis,aguiarnopolis
+TO,aparecida_do_rio_negro,1701101,Aparecida do Rio Negro,aparecida_do_rio_negro
+TO,araguaina,1702109,Araguaína,araguaina
+TO,axixa_do_tocantins,1702901,Axixá do Tocantins,axixa_do_tocantins
+TO,campos_lindos,1703842,Campos Lindos,campos_lindos
+TO,caseara,1703909,Caseara,caseara
+TO,centenario,1704105,Centenário,centenario
+TO,divinopolis_do_tocantins,1707108,Divinópolis do Tocantins,divinopolis_do_tocantins
+TO,goiatins,1709005,Goiatins,goiatins
+TO,gurupi,1709500,Gurupi,gurupi
+TO,lagoa_da_confusao,1711902,Lagoa da Confusão,lagoa_da_confusao
+TO,lagoa_do_tocantins,1711951,Lagoa do Tocantins,lagoa_do_tocantins
+TO,miracema_do_tocantins,1713205,Miracema do Tocantins,miracema_do_tocantins
+TO,muricilandia,1713957,Muricilândia,muricilandia
+TO,nazare,1714302,Nazaré,nazare
+TO,palmas,1721000,Palmas,palmas
+TO,peixe,1716604,Peixe,peixe
+TO,ponte_alta_do_tocantins,1717909,Ponte Alta do Tocantins,ponte_alta_do_tocantins
+TO,pugmil,1718451,Pugmil,pugmil
+TO,recursolandia,1718501,Recursolândia,recursolandia
+TO,sampaio,1718808,Sampaio,sampaio
+TO,santa_fe_do_araguaia,1718865,Santa Fé do Araguaia,santa_fe_do_araguaia
+TO,talisma,1720978,Talismã,talisma
+TO,tocantinia,1721109,Tocantínia,tocantinia
+TO,tocantinopolis,1721208,Tocantinópolis,tocantinopolis
+TO,tupirama,1721257,Tupirama,tupirama
+RS,bento_goncalves,4302105,Bento Gonçalves,bento_goncalves
+RS,cachoeira_do_sul,4303004,Cachoeira do Sul,cachoeira_do_sul
+RS,camaqua,4303509,Camaquã,camaqua
+RS,candelaria,4304200,Candelária,candelaria
+RS,caxias_do_sul,4305108,Caxias do Sul,caxias_do_sul
+RS,cerrito,4305124,Cerrito,cerrito
+RS,dois_irmaos,4306403,Dois Irmãos,dois_irmaos
+RS,estrela,4307807,Estrela,estrela
+RS,gravatai,4309209,Gravataí,gravatai
+RS,horizontina,4309605,Horizontina,horizontina
+RS,marau,4311809,Marau,marau
+RS,panambi,4313904,Panambi,panambi
+RS,porto_alegre,4314902,Porto Alegre,porto_alegre
+RS,quatro_irmaos,4315313,Quatro Irmãos,quatro_irmaos
+RS,santa_clara_do_sul,4316758,Santa Clara do Sul,santa_clara_do_sul
+RS,santa_rosa,4317202,Santa Rosa,santa_rosa
+RS,sao_francisco_de_paula,4318200,São Francisco de Paula,sao_francisco_de_paula
+RS,sao_joao_do_polesine,4318432,São João do Polêsine,sao_joao_do_polesine
+RS,sobradinho,4320701,Sobradinho,sobradinho
+RS,tres_arroios,4321634,Três Arroios,tres_arroios
+RS,vera_cruz,4322707,Vera Cruz,vera_cruz
+MG,belo_horizonte,3106200,Belo Horizonte,belo_horizonte
+MG,betim,3106705,Betim,betim
+MG,campo_belo,3111200,Campo Belo,campo_belo
+MG,candeias,3112000,Candeias,candeias
+MG,carmo_da_cachoeira,3113909,Carmo da Cachoeira,carmo_da_cachoeira
+MG,carmo_do_rio_claro,3114402,Carmo do Rio Claro,carmo_do_rio_claro
+MG,contagem,3118601,Contagem,contagem
+MG,crucilandia,3120607,Crucilândia,crucilandia
+MG,itajuba,3132404,Itajubá,itajuba
+MG,itauna,3133808,Itaúna,itauna
+MG,januaria,3135209,Januária,januaria
+MG,juatuba,3136652,Juatuba,juatuba
+MG,nova_serrana,3145208,Nova Serrana,nova_serrana
+MG,onca_de_pitangui,3145802,Onça de Pitangui,onca_de_pitangui
+MG,piranguinho,3151008,Piranguinho,piranguinho
+MG,salinas,3157005,Salinas,salinas
+MG,taiobeiras,3168002,Taiobeiras,taiobeiras
+MG,uberlandia,3170206,Uberlândia,uberlandia
+MG,varzea_da_palma,3170800,Várzea da Palma,varzea_da_palma
+CE,aurora,2301703,Aurora,aurora
+CE,caninde,2302800,Canindé,caninde
+CE,caririacu,2303204,Caririaçu,caririacu
+CE,caucaia,2303709,Caucaia,caucaia
+CE,cedro,2303808,Cedro,cedro
+CE,crateus,2304103,Crateús,crateus
+CE,general_sampaio,2304608,General Sampaio,general_sampaio
+CE,hidrolandia,2305209,Hidrolândia,hidrolandia
+CE,horizonte,2305233,Horizonte,horizonte
+CE,itaitinga,2306256,Itaitinga,itaitinga
+CE,jaguaribe,2306900,Jaguaribe,jaguaribe
+CE,juazeiro_do_norte,2307304,Juazeiro do Norte,juazeiro_do_norte
+CE,sobral,2312908,Sobral,sobral
